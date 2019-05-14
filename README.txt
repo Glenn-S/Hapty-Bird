@@ -7,7 +7,7 @@
  *
  **********************************************************************/
 
-** CCONTENTS **
+** CONTENTS **
 application.cpp
 Body.cpp
 Body.h
